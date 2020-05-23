@@ -1,4 +1,9 @@
 ## code your solution here. 
 class Cat 
   attr_accessor :name 
-end 
+end
+
+def meow 
+  puts 
+name = Cat.new 
+name.meow 
