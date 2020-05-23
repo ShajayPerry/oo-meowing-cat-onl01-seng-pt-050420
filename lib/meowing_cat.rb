@@ -7,6 +7,3 @@ class Person
     puts "meow!"
   end 
 end 
-
-name = Person.new 
-name.meow 
