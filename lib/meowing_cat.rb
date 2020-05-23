@@ -4,4 +4,9 @@ class Person
   end 
   
   def meow 
-    puts 
+    puts "meow!"
+  end 
+end 
+
+name = Person.new 
+name.meow 
